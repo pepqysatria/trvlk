@@ -35,16 +35,6 @@ This repository contains end-to-end tests written in Cypress.
     ```bash
     yarn install
     ```
-    
-3. How to run:
-    ```bash
-    npx cypress run cypress/e2e/car/book-car.spec.js
-    ```
-    or
-    ```bash
-    npx cypress open
-    ```
-
 
 ## Running Tests
 
