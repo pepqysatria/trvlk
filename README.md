@@ -1,3 +1,11 @@
+
+
+
+
+https://github.com/pepqysatria/trvlk/assets/54198767/07016b00-b5cc-412a-9ed2-a1ec259871a6
+
+
+
 # Cypress Test Automation
 
 This repository contains end-to-end tests written in Cypress.
@@ -27,6 +35,16 @@ This repository contains end-to-end tests written in Cypress.
     ```bash
     yarn install
     ```
+    
+3. How to run:
+    ```bash
+    npx cypress run cypress/e2e/car/book-car.spec.js
+    ```
+    or
+    ```bash
+    npx cypress open
+    ```
+
 
 ## Running Tests
 
